@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+</p>
+
+<h1 align="center"><b><span style="font-size: 50px;">Hi 👋, I'm Deeptesh Rout</span></b></h1>
 
 <!--
 **Tankeaver/Tankeaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
